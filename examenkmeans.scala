@@ -1,3 +1,4 @@
+//JC Mdz
 //1 importar una sesion de spark
 import org.apache.spark.sql.SparkSession
 //2 utilice las lineas de codigo para reportar errores reducidos
